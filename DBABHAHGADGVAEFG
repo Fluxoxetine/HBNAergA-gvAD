@@ -3,5 +3,6 @@
     "hotkey": "0xA4",
     "triggerreact_time":40,
     "color_sens":70,
-    "rapidfiredelay":0.01
+    "rapidfiredelay":0.01,
+    "fov_trig":"5"
 }
